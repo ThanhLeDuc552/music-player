@@ -1,1 +1,0 @@
-a = 'du ma may'
